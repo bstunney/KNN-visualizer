@@ -2,7 +2,7 @@ I created this KNN algorithm visualization project during December 2022 for my p
 
 Once SFML graphics is downloaded, program can be ran in the command line.
 
-To compile: g++ -std=c++17 -g ./src/*.cpp -o prog -I./include -lsfml-graphics -lsfml-window -lsfml-system -lpthread
+To compile: g++ -std=c++17 -g ./src/*.cpp -o prog -I./include -lsfml-graphics -lsfml-window -lsfml-system -lpthread (dependant on SFML download process)
 
 To run: ./prog 25 (parameter specifies number of K-neighbors to visualize)
 
